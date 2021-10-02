@@ -1,6 +1,5 @@
-## Py
 
-### This project is build on python and Docker is used.  
+### This project is build on python and Docker is used. This project contain basic api to perform certain task
 ----
 
 ### Steps to run the project
