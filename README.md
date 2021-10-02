@@ -1,5 +1,6 @@
-## Vernacular.ai Task
+## Py
 
+### This project is build on python and Docker is used.  
 ----
 
 ### Steps to run the project
